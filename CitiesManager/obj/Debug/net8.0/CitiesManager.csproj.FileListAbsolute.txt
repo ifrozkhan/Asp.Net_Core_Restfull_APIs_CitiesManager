@@ -1,0 +1,7 @@
+C:\Practice\Dot Net\CitiesManager\CitiesManager\obj\Debug\net8.0\CitiesManager.csproj.AssemblyReference.cache
+C:\Practice\Dot Net\CitiesManager\CitiesManager\obj\Debug\net8.0\CitiesManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\Dot Net\CitiesManager\CitiesManager\obj\Debug\net8.0\CitiesManager.AssemblyInfoInputs.cache
+C:\Practice\Dot Net\CitiesManager\CitiesManager\obj\Debug\net8.0\CitiesManager.AssemblyInfo.cs
+C:\Practice\Dot Net\CitiesManager\CitiesManager\obj\Debug\net8.0\CitiesManager.csproj.CoreCompileInputs.cache
+C:\Practice\Dot Net\CitiesManager\CitiesManager\obj\Debug\net8.0\CitiesManager.MvcApplicationPartsAssemblyInfo.cs
+C:\Practice\Dot Net\CitiesManager\CitiesManager\obj\Debug\net8.0\CitiesManager.MvcApplicationPartsAssemblyInfo.cache
