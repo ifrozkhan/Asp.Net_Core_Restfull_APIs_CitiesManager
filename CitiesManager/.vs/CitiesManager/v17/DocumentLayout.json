@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Practice\\Dot Net\\CitiesManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\controllers\\employee_detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\controllers\\employee_detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\controllers\\citescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\controllers\\citescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|c:\\practice\\dot net\\citiesmanager\\citiesmanager\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{629BB9E4-9CCA-4C66-8F18-F6F3CD5F4EFA}|CitiesManager\\CitiesManager.csproj|solutionrelative:citiesmanager\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CitiesManager\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvxMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:27:04.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\DatabaseContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CitiesManager\\DatabaseContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T13:50:40.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CitiesManager\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:01:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Program.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Program.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Program.cs",
+              "RelativeToolTip": "CitiesManager\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:18:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\appsettings.json",
+              "RelativeDocumentMoniker": "CitiesManager\\appsettings.json",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\appsettings.json",
+              "RelativeToolTip": "CitiesManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-08T05:44:15.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee_DetailsController.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\Employee_DetailsController.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Controllers\\Employee_DetailsController.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\Employee_DetailsController.cs",
+              "RelativeToolTip": "CitiesManager\\Controllers\\Employee_DetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:18:55.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CitiesManager\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:16:56.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CitiesManager\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:05:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CitesController.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\CitesController.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Controllers\\CitesController.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Controllers\\CitesController.cs",
+              "RelativeToolTip": "CitiesManager\\Controllers\\CitesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:08:29.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IcustomerRepository.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Repositories\\IcustomerRepository.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Repositories\\IcustomerRepository.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Repositories\\IcustomerRepository.cs",
+              "RelativeToolTip": "CitiesManager\\Repositories\\IcustomerRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAASwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:05:45.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Models\\City.cs",
+              "RelativeDocumentMoniker": "CitiesManager\\Models\\City.cs",
+              "ToolTip": "C:\\Practice\\Dot Net\\CitiesManager\\CitiesManager\\Models\\City.cs",
+              "RelativeToolTip": "CitiesManager\\Models\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T14:12:01.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
