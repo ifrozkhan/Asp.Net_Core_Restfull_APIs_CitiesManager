@@ -22,7 +22,13 @@ builder.Services.AddSwaggerGen();
 // Repository (Dapper)
 builder.Services.AddTransient<ICustomerRepository, CustomerRepository>();
 
+//  Register CORS policy
+builder.Services.AddCors(options => { options.AddPolicy("AllowAngularClient", policy => policy.WithOrigins("http://localhost:4200").AllowAnyHeader().AllowAnyMethod()); });
+
 var app = builder.Build();
+
+//  Use the named policy
+app.UseCors("AllowAngularClient");
 
 // Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())

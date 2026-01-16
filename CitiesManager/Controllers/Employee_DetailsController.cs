@@ -42,7 +42,7 @@ namespace CitiesManager.WebAPI.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> PutEmployeeDetails(int id, Employee_Details employee)
         {
-            if (id != employee.Employee_ID)
+            if (id != employee.Emp_ID)
                 return BadRequest();
 
             _context.Entry(employee).State = EntityState.Modified;
@@ -71,7 +71,7 @@ namespace CitiesManager.WebAPI.Controllers
 
             return CreatedAtAction(
                 nameof(GetEmployeeDetails),
-                new { id = employee.Employee_ID },
+                new { id = employee.Emp_ID },
                 employee
             );
         }
@@ -93,7 +93,7 @@ namespace CitiesManager.WebAPI.Controllers
 
         private bool EmployeeDetailsExists(int id)
         {
-            return _context.Employee_Details.Any(e => e.Employee_ID == id);
+            return _context.Employee_Details.Any(e => e.Emp_ID == id);
         }
     }
 }

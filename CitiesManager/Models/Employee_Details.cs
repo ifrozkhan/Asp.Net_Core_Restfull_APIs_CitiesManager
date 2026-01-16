@@ -6,9 +6,9 @@ namespace CitiesManager.WebAPI.Models
     public class Employee_Details
     {
         [Key]
-        public int Employee_ID { get; set; }
+        public int Emp_ID { get; set; }
 
-        public string? Name { get; set; }
+        public string? Emp_Name { get; set; }
 
         public string? Type { get; set; }
 

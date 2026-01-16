@@ -33,11 +33,11 @@ public class CustomerRepository : ICustomerRepository
 
         var query = @"SELECT * 
                       FROM Employee_Details 
-                      WHERE Employee_ID = @Employee_ID";
+                      WHERE Emp_ID = @Emp_ID";
 
         return await db.QueryFirstOrDefaultAsync<Employee_Details>(
             query,
-            new { Employee_ID = id }
+            new { Emp_ID = id }
         );
     }
 
@@ -46,13 +46,13 @@ public class CustomerRepository : ICustomerRepository
         using var db = Connection;
 
         var sql = @"INSERT INTO Employee_Details
-                    (Employee_ID, Name, Type, Gender, DOB, Address)
+                    (Emp_ID, Emp_Name, Type, Gender, DOB, Address)
                     VALUES
-                    (@Employee_ID, @Name, @Type, @Gender, @DOB, @Address)";
+                    (@Emp_ID, @Emp_Name, @Type, @Gender, @DOB, @Address)";
 
         var parameters = new DynamicParameters();
-        parameters.Add("Employee_ID", customer.Employee_ID, DbType.Int64);
-        parameters.Add("Name", customer.Name, DbType.String);
+        parameters.Add("Emp_ID", customer.Emp_ID, DbType.Int64);
+        parameters.Add("Emp_Name", customer.Emp_Name, DbType.String);
         parameters.Add("Type", customer.Type, DbType.String);
         parameters.Add("Gender", customer.Gender, DbType.String);
         parameters.Add("DOB", customer.DOB, DbType.DateTime);
@@ -72,11 +72,11 @@ public class CustomerRepository : ICustomerRepository
                         Gender = @Gender,
                         DOB = @DOB,
                         Address = @Address
-                    WHERE Employee_ID = @Employee_ID";
+                    WHERE Emp_ID = @Emp_ID";
 
         var parameters = new DynamicParameters();
-        parameters.Add("Employee_ID", id, DbType.Int64);
-        parameters.Add("Name", customer.Name, DbType.String);
+        parameters.Add("Emp_ID", id, DbType.Int64);
+        parameters.Add("Emp_Name", customer.Emp_Name, DbType.String);
         parameters.Add("Type", customer.Type, DbType.String);
         parameters.Add("Gender", customer.Gender, DbType.String);
         parameters.Add("DOB", customer.DOB, DbType.DateTime);
@@ -91,9 +91,9 @@ public class CustomerRepository : ICustomerRepository
         using var db = Connection;
 
         var sql = @"DELETE FROM Employee_Details 
-                    WHERE Employee_ID = @Employee_ID";
+                    WHERE Emp_ID = @Emp_ID";
 
-        await db.ExecuteAsync(sql, new { Employee_ID = id });
+        await db.ExecuteAsync(sql, new { Emp_ID = id });
         return "Pass";
     }
 }
